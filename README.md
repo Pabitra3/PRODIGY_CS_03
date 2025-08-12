@@ -31,7 +31,7 @@ This is a Python-based GUI application that evaluates the strength of a password
 1. Save the `Password_complexity_checker.py` file.
 2. Run the script:
    ```bash
-   python password_checker_gui.py
+   python sword_complexity_checker.py
    ```
 3. In the GUI:
    - Enter a password in the input field.
